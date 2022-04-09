@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mike Jin&#39;s Blog</title>
+  
+  
+  <link href="http://jinziqiao.com/atom.xml" rel="self"/>
+  
+  <link href="http://jinziqiao.com/"/>
+  <updated>2022-04-07T16:15:50.611Z</updated>
+  <id>http://jinziqiao.com/</id>
+  
+  <author>
+    <name>Mike Jin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>好的人生格言</title>
+    <link href="http://jinziqiao.com/2022/04/08/%E5%A5%BD%E7%9A%84%E4%BA%BA%E7%94%9F%E6%A0%BC%E8%A8%80/"/>
+    <id>http://jinziqiao.com/2022/04/08/%E5%A5%BD%E7%9A%84%E4%BA%BA%E7%94%9F%E6%A0%BC%E8%A8%80/</id>
+    <published>2022-04-07T16:08:34.000Z</published>
+    <updated>2022-04-07T16:15:50.611Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="奇思妙想" scheme="http://jinziqiao.com/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我该专注于哪一个领域</title>
+    <link href="http://jinziqiao.com/2022/04/05/%E6%88%91%E8%AF%A5%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%93%AA%E4%B8%80%E4%B8%AA%E9%A2%86%E5%9F%9F/"/>
+    <id>http://jinziqiao.com/2022/04/05/%E6%88%91%E8%AF%A5%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%93%AA%E4%B8%80%E4%B8%AA%E9%A2%86%E5%9F%9F/</id>
+    <published>2022-04-05T13:17:48.000Z</published>
+    <updated>2022-04-05T13:40:51.704Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="奇思妙想" scheme="http://jinziqiao.com/categories/%E5%A5%87%E6%80%9D%E5%A6%99%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://jinziqiao.com/2022/03/30/hello-world/"/>
+    <id>http://jinziqiao.com/2022/03/30/hello-world/</id>
+    <published>2022-03-30T01:08:53.249Z</published>
+    <updated>2022-03-29T15:57:14.775Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
